@@ -1,3 +1,6 @@
+package com.ehei.gi4;
+
+import com.ehei.gi4.Train;
 
 public class Main {
 
